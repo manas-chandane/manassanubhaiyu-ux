@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Manas 👋
 
-<!--
-**manassanubhaiyu-ux/manassanubhaiyu-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BA Political Science Graduate  
+📊 Aspiring Data Analyst  
+📍 Pune, India  
 
-Here are some ideas to get you started:
+## 🔍 Skills
+- Excel (Pivot Tables, VLOOKUP, Power Query)
+- SQL (Joins, Subqueries, Aggregations)
+- Power BI (Dashboards, DAX basics)
+- Python (Pandas, Matplotlib, NumPy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects
+- Sales Performance Analysis (Excel + Power BI)
+- Customer Segmentation using SQL
+- BI Sample Data Dashboard (Power BI)
+
+## 🛠 Tools
+Excel | SQL | Power BI | Python | GitHub
+
+## 📫 Connect with Me
+- LinkedIn: (https://www.linkedin.com/in/manas-chandane/)
+- Email: manasrc22@gmail.com
